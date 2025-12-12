@@ -1,0 +1,26 @@
+====================================
+   MEDICAL STORE MANAGEMENT SYSTEM
+====================================
+
+1. Admin Login
+2. Staff Panel
+3. Customer Panel
+4. Exit
+
+Enter your choice: 
+
+
+Enter Admin Password: admin123
+
+Login Successful!
+
+========== ADMIN PANEL ==========
+1. Add Medicine
+2. View Medicines
+3. Search Medicine
+4. Update Medicine
+5. Delete Medicine
+6. View Sales History
+7. Logout
+
+Enter your choice:
